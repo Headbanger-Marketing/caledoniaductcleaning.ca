@@ -1,2 +1,25 @@
 # Caledonia Duct Cleaning
-HVAC services in Ontario.
+
+> Caledonia Duct Cleaning is a local HVAC company serving Caledonia, Haldimand, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 765-3418  |  Email: contact@caledoniaductcleaning.ca  |  Website: https://caledoniaductcleaning.ca
+
+## Key pages
+
+- [Home](https://caledoniaductcleaning.ca/): Caledonia Duct Cleaning homepage with service overview and FAQ
+- [About](https://caledoniaductcleaning.ca/about/): About the company and service area
+- [Contact](https://caledoniaductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://caledoniaductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Caledonia, Ontario
+- [Dryer Vent Cleaning](https://caledoniaductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Caledonia, Ontario
+- [Furnace & AC Cleaning](https://caledoniaductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Caledonia, Ontario
+- [HRV & Ventilation Cleaning](https://caledoniaductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Caledonia, Ontario
+- [Duct Sanitizing & Deodorizing](https://caledoniaductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Caledonia, Ontario
+- [Duct Sealing & Repair](https://caledoniaductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Caledonia, Ontario
+- [Commercial Duct Cleaning](https://caledoniaductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Caledonia, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Caledonia are answered on the homepage.
